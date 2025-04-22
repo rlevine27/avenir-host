@@ -1,0 +1,21 @@
+
+@font-face {
+  font-family: 'AvenirLight';
+  src: url('https://rlevine27.github.io/avenir-host/avenir-light.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AvenirMedium';
+  src: url('https://rlevine27.github.io/avenir-host/avenir-medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AvenirBook';
+  src: url('https://rlevine27.github.io/avenir-host/avenir-book.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}

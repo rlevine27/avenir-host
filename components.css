@@ -1,0 +1,108 @@
+
+/* Headline */
+.section-6025630 .element-28890091 .atom-main {
+  font-family: var(--font-avenir) !important;
+  font-weight: 500 !important;
+  text-transform: none !important;
+  text-align: left !important;
+  display: block;
+  margin-left: 0 !important;
+  line-height: 100px;
+  width: 85%;
+}
+
+/* Subhead */
+.trade-template .date-venue-wrapper {
+  font-family: var(--font-light) !important;
+  font-style: normal !important;
+  width: 50%;
+  margin-bottom: var(--spacing-md);
+}
+
+/* Buttons */
+.btn-register,
+.btn-register:hover {
+  font-family: var(--font-medium) !important;
+  font-style: normal !important;
+  font-weight: 400;
+  padding: 12px var(--spacing-lg) !important;
+}
+
+.btn-register:hover {
+  background-color: var(--color-white) !important;
+  color: var(--color-black) !important;
+  border-color: var(--color-white) !important;
+}
+
+/* About This Series */
+.section-6036609 .element-28938447 .atom-main {
+  font-family: var(--font-avenir) !important;
+  font-weight: 400 !important;
+  font-size: var(--font-size-large);
+  color: var(--color-black);
+  text-align: center !important;
+  display: block;
+  margin-left: 0 !important;
+  line-height: 100px;
+  width: 100%;
+  text-transform: none !important;
+}
+
+.about-this-series,
+.margin-custom-element {
+  font-family: var(--font-avenir) !important;
+  color: var(--color-black) !important;
+}
+
+.margin-custom-element {
+  padding: var(--spacing-xl) var(--spacing-lg) var(--spacing-md);
+  background-color: var(--color-highlight);
+  border-radius: var(--border-radius);
+  min-height: 300px;
+}
+
+/* Speakers */
+.section-6025633 .element-28890105 .atom-main,
+.element-28890106 {
+  font-family: var(--font-avenir) !important;
+  color: var(--color-black) !important;
+  text-align: center !important;
+}
+
+.section-6025633 .element-28890105 .atom-main {
+  font-weight: 400;
+}
+
+.element-28890106 {
+  font-weight: 300;
+}
+
+.section-6025633 .atom-sectionMain {
+  background-image: url('https://raw.githubusercontent.com/rlevine27/avenir-host/493e49218b3dd31fbc317652a408b3db38bc9a0f/Picture1.png') !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Download App */
+.trade-template .downloadapp span {
+  font-family: var(--font-avenir) !important;
+  text-align: left !important;
+  font-style: normal !important;
+  color: var(--color-white) !important;
+  font-weight: 400 !important;
+  text-transform: none !important;
+}
+
+.trade-template .attendee-empty-bg {
+  background: var(--color-white);
+  background-image: none !important;
+}
+
+.trade-template .attendee-empty-bg img {
+  display: none !important;
+}
+
+.atom-main .btn .btn-success .btn-register .padding-horizontal-medium {
+  border-radius: 6px !important;
+}

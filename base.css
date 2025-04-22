@@ -1,0 +1,19 @@
+
+.template-nav,
+.template-nav .navbar-nav li a,
+.template-nav .navbar-nav > li > a,
+.template-nav .navbar a,
+.template-nav nav a,
+.template-nav nav li a,
+.template-nav .menu li a,
+.front-head,
+.trade-template .nav-menu-btn {
+  font-family: var(--font-medium) !important;
+  text-transform: none !important;
+  font-variant: normal !important;
+  letter-spacing: normal !important;
+}
+
+.text-center {
+  text-align: left !important;
+}

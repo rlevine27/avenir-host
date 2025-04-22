@@ -1,0 +1,23 @@
+
+:root {
+  --font-light: 'AvenirLight', sans-serif;
+  --font-medium: 'AvenirMedium', sans-serif;
+  --font-book: 'AvenirBook', sans-serif;
+  --font-avenir: 'Avenir', sans-serif;
+
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-primary: #1762fc;
+  --color-highlight: #cdf5ff;
+
+  --font-size-large: 55px;
+  --font-size-headline: 45px;
+  --font-size-mobile: 20px;
+
+  --spacing-sm: 10px;
+  --spacing-md: 20px;
+  --spacing-lg: 30px;
+  --spacing-xl: 40px;
+
+  --border-radius: 7px;
+}

@@ -1,0 +1,12 @@
+
+.row,
+.col-xs-12,
+[class*="col-"] {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+/* Footer */
+.footer-with-confirmation-link {
+  background-color: var(--color-primary) !important;
+}
